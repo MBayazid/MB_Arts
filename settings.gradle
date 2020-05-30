@@ -1,0 +1,2 @@
+include ':app', ':layout-manager', ':circle-view', ':finetoast', ':rippleweaver'
+rootProject.name='MB_Arts'

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MB_Arts.iml" filepath="$PROJECT_DIR$/MB_Arts.iml" group="MB_Arts" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MB_Arts/app" />
+      <module fileurl="file://$PROJECT_DIR$/circle-view/circle-view.iml" filepath="$PROJECT_DIR$/circle-view/circle-view.iml" group="MB_Arts/circle-view" />
+      <module fileurl="file://$PROJECT_DIR$/finetoast/finetoast.iml" filepath="$PROJECT_DIR$/finetoast/finetoast.iml" group="MB_Arts/finetoast" />
+      <module fileurl="file://$PROJECT_DIR$/layout-manager/layout-manager.iml" filepath="$PROJECT_DIR$/layout-manager/layout-manager.iml" group="MB_Arts/layout-manager" />
+      <module fileurl="file://$PROJECT_DIR$/rippleweaver/rippleweaver.iml" filepath="$PROJECT_DIR$/rippleweaver/rippleweaver.iml" group="MB_Arts/rippleweaver" />
+    </modules>
+  </component>
+</project>
